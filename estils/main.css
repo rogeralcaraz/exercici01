@@ -1,11 +1,8 @@
-p {
-  font-size: 24px;
-}
-div {
-	width: 900px;
+.cos {
+	width: 1200px;
 	background-color: rgba(255, 255, 255, .8);
-	margin: auto;
-	padding: 15px;
+	margin: 5px auto;
+	padding: 10px;
 }
 body {
 	background-image: url("printer.jpg");
@@ -14,6 +11,19 @@ body {
 }
 .logo {
 	float: left;
-	margin-right: 15px;
+	margin-top: 20px;
+	margin-right: 20px;
+	margin-left: 20px;
+	margin-bottom: 0px;
 	background-color: white;
+}
+.navegador {
+float: left;
+width: 200px;
+margin-left: 200px;
+margin-right: 10px;
+padding: 10px;
+background-color: green;
+border: 4px;
+border-color: blue;
 }

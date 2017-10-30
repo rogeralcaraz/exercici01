@@ -1,9 +1,19 @@
 p {
-  background: orange;
   font-size: 24px;
 }
 div {
 	width: 900px;
-	background: yellow;
+	background-color: rgba(255, 255, 255, .8);
 	margin: auto;
+	padding: 15px;
+}
+body {
+	background-image: url("printer.jpg");
+	background-size: cover;
+    background-repeat: no-repeat;
+}
+.logo {
+	float: left;
+	margin-right: 15px;
+	background-color: white;
 }
